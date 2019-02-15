@@ -9,7 +9,7 @@ title:               Layers of Learning
 tagline:             'Understanding How Machines Learn'
 description:         'A Machine Learning and Data Science Blog created and maintained by Daniel Vieira.'
 url:                 #http://lanyon.getpoole.com
-baseurl:             'blog'
+baseurl:             ''
 paginate:            5
 
 # About/contact
