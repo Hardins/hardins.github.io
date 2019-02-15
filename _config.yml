@@ -1,11 +1,11 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-absolute_permalinks: true
+#permalink:           pretty
+#absolute_permalinks: true
 
 # Setup
-title:               Learning in Layers
+title:               Layers of Learning
 tagline:             'Understanding How Machines Learn'
 description:         'A Machine Learning and Data Science Blog created and maintained by Daniel Vieira.'
 url:                 #http://lanyon.getpoole.com
