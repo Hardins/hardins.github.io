@@ -16,6 +16,6 @@ My name is Daniel Vieira, and I am a masters in computer science and mechanical 
 
 ## Contact
 
-Have any questions or suggestions? Feel free to  contact me through [GitHub](https://github.com/hardins/),  [Linkedin](https://www.linkedin.com/in/daniel-santana-nogueira-vieira-529b86103/), or send me an <kovauviske@poli.ufrj.br>.
+Have any questions or suggestions? Feel free to  contact me through [GitHub](https://github.com/hardins/),  [Linkedin](https://www.linkedin.com/in/daniel-santana-nogueira-vieira-529b86103/), or send me an email (<kovauviske@poli.ufrj.br>).
 
 Thanks for reading!
